@@ -6,9 +6,5 @@
 
 <hr>
 
-![image](https://github.com/b0xCastor/ID-TO-TOKEN/assets/144159132/f8c24fb2-0564-4d2c-a7b6-77681910f4a0)
-
-<hr>
-
 ![image](https://github.com/b0xCastor/ID-TO-TOKEN/assets/144159132/1fc636b5-5647-4829-b3bc-35e56cbdcabe)
 
